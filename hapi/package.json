@@ -1,0 +1,15 @@
+{
+  "name": "react-example-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.12.4",
+    "browserify": "^10.2.4",
+    "express": "^4.12.4",
+    "hapi": "^8.6.1",
+    "node-jsx": "^0.13.3",
+    "react": "^0.13.3",
+    "reactify": "^1.1.1",
+    "through2-map": "^1.4.0"
+  }
+}
