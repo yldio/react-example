@@ -1,0 +1,11 @@
+{
+  "name": "react-example-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.12.4",
+    "express": "^4.12.4",
+    "node-jsx": "^0.13.3",
+    "react": "^0.13.3"
+  }
+}
